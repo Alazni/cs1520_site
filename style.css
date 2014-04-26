@@ -41,3 +41,11 @@ div.itembody {
 div.itembody table {
   width:            100%;
 }
+.quiz
+{
+	color: green;
+}
+.exam
+{
+	color: red;
+}
